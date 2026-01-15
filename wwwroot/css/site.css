@@ -29,3 +29,21 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/*Improved Form Input Styling*/
+input,
+select,
+textarea {
+  padding: 8px 10px;
+  box-sizing: border-box;
+}
+
+/*Improve spacing between form elements*/
+.form-control {
+  margin-bottom: 12px;
+}
+
+button,
+input[type="submit"] {
+  margin-top: 12px;
+}
