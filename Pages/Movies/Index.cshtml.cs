@@ -30,6 +30,10 @@ namespace RazorPagesMovie.Pages_Movies
         [BindProperty(SupportsGet = true)]
         public string? MovieGenre { get; set; }
 
+        //New property for Year Input//
+        [BindProperty(SupportsGet = true)]
+        public int? SearchYear { get; set; }
+
         public async Task OnGetAsync()
         {
             // <snippet_search_linqQuery>
@@ -49,6 +53,11 @@ namespace RazorPagesMovie.Pages_Movies
             if (!string.IsNullOrEmpty(MovieGenre))
             {
                 movies = movies.Where(x => x.Genre == MovieGenre);
+            }
+
+            if (SearchYear.HasValue)
+            {
+                movies = movies.Where(m => m.ReleaseDate.Year >= SearchYear.Value);
             }
 
             // <snippet_search_selectList>

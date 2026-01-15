@@ -11,12 +11,25 @@
     <a asp-page="Create">Create New</a>
 </p>
 
-<form>
+<form method="get">
     <p>
-        <select asp-for="MovieGenre" asp-items="Model.Genres">
-            <option value="">All</option>
-        </select>
-        <label>Title: <input type="text" asp-for="SearchString" /></label>
+        <label>
+            Genre:
+            <select asp-for="MovieGenre" asp-items="Model.Genres" class="form-control">
+                <option value="">All</option>
+            </select>
+        </label>
+
+        <label>
+            Title:
+            <input type="text" asp-for="SearchString" class="form-control" />
+        </label>
+
+        <label>
+            Year (or newer):
+            <input type="number" asp-for="SearchYear" class="form-control" />
+        </label>
+
         <input type="submit" value="Filter" />
     </p>
 </form>
