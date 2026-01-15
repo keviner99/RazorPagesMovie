@@ -417,3 +417,4 @@ c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPag
 c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
 c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.csproj.AssemblyReference.cache
 c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPag.6F531686.Up2Date
+c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "c:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "c:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "c:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "c:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\KEVIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+        "outputPath": "c:\\Kevin\\BYU-Idaho\\2026\\term 1\\CSE 325 .NET Software Development\\Week 2\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEVIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
