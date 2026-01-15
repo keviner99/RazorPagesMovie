@@ -417,4 +417,4 @@ C:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPag
 C:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.pdb
 C:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.genruntimeconfig.cache
 C:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\ref\RazorPagesMovie.dll
-c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\compressed\kd0x0g0ykt-{0}-44z48ikeim-44z48ikeim.gz
+c:\Kevin\BYU-Idaho\2026\term 1\CSE 325 .NET Software Development\Week 2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net10.0\compressed\kd0x0g0ykt-{0}-sr002cwosu-sr002cwosu.gz
