@@ -59,6 +59,35 @@ namespace RazorPagesMovie.Models
                         Genre = "Western",
                         Price = 3.99M,
                         Rating = "NA"
+                    },
+
+                    new Movie
+                    {
+                        Title = "Star Wars 3",
+                        ReleaseDate = DateTime.Parse("2005-5-19"),
+                        Genre = "Science Fiction",
+                        Price = 3.99M,
+                        Rating = "PG-13"
+                    },
+
+
+                    new Movie
+                    {
+                        Title = "Inception",
+                        ReleaseDate = DateTime.Parse("2010-7-16"),
+                        Genre = "Action thriller",
+                        Price = 1.60M,
+                        Rating = "P-13"
+                    },
+
+
+                    new Movie
+                    {
+                        Title = "Jurassic Park",
+                        ReleaseDate = DateTime.Parse("1993-6-11"),
+                        Genre = "Science Fiction",
+                        Price = 6.3M,
+                        Rating = "NA"
                     }
                 );
                 context.SaveChanges();
