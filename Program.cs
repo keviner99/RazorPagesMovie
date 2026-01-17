@@ -4,6 +4,8 @@ using RazorPagesMovie.Data;
 using RazorPagesMovie.Models;
 var builder = WebApplication.CreateBuilder(args);
 
+
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<RazorPagesMovieContext>(options =>
